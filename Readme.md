@@ -1,9 +1,22 @@
-# Hell0  Everyone! I am Vedant Ravindra Domde
+# Name:-Vedant Ravindra Domde
 
-### this frontend static webiste
+## Project Name:proect9
 
-## see my final website below
+### My final website is below.
 
-![homepage](homepage.jpg.png)
 
-- Time Taken:-5 hour 48 minss
+- Time Taken:4 hour 
+
+## Technologies
+#### Project is created with:
+* HTML5
+* CSS3
+* flex
+
+
+## Experience got on this project:-
+         * Learn how to used flex in CSS
+         * learn how to make webpage responsive using media query
+
+
+  [Deploy link](https://vedantdomde.github.io/html-css-project9/) 
